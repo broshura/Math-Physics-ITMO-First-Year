@@ -1,0 +1,40 @@
+\babel@toc {russian}{}\relax 
+\contentsline {part}{VII\hspace {1em}Неопределенный интеграл}{3}{part.7}%
+\contentsline {section}{\numberline {7.1}Первообразная функции и неопределенный интеграл}{3}{section.1}%
+\contentsline {section}{\numberline {7.2}Основные свойства неопределенного интеграла}{3}{section.2}%
+\contentsline {section}{\numberline {7.3}Таблица основных первообразных}{4}{section.3}%
+\contentsline {section}{\numberline {7.4}Замена в неопределенном интеграле}{4}{section.4}%
+\contentsline {section}{\numberline {7.5}Формула интегрирования по частям}{5}{section.5}%
+\contentsline {part}{VIII\hspace {1em}Определенный интеграл}{5}{part.8}%
+\contentsline {section}{\numberline {8.2}Определение и условия существования}{5}{section.2}%
+\contentsline {subsection}{\numberline {8.2.1}Интеграл Римана, 1ое def}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Суммы Дарбу, 2oe определение интеграла Римана}{6}{subsection.2.2}%
+\contentsline {section}{\numberline {8.3}Критерий Лебега интегрируемой функции}{8}{section.3}%
+\contentsline {paragraph}{Множество меры нуль}{9}{Item.29}%
+\contentsline {paragraph}{Классы интегрируемых функций}{12}{Item.35}%
+\contentsline {section}{\numberline {8.4}Основные свойства определенного интервала}{12}{section.4}%
+\contentsline {subsection}{\numberline {8.4.1}Простейшие свойства}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Монотонность интеграла относительно функции}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}Первая теорема о среднем}{14}{subsection.4.3}%
+\contentsline {section}{\numberline {8.5}Интегрирование и дифференцирование}{15}{section.5}%
+\contentsline {subsection}{\numberline {8.5.1}Формулы интегрирования по частям и замены переменной в неопределенном интеграле}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Лемма и вторая теорема о среднем}{18}{subsection.5.2}%
+\contentsline {section}{\numberline {8.6}Приложения определенного интеграла}{20}{section.6}%
+\contentsline {subsection}{\numberline {8.6.1}Формула Валлиса (Уоллиса)}{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Интегральные неравенства Гельдера и Коши-Буняковского}{21}{subsection.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}Лемма Римана Лебега}{21}{subsection.6.3}%
+\contentsline {subsection}{\numberline {8.6.4}Геометрические приложения определенного интеграла}{23}{subsection.6.4}%
+\contentsline {subsection}{\numberline {8.6.5}Гиперболические функции}{26}{subsection.6.5}%
+\contentsline {section}{\numberline {8.7}Несобственные интегралы}{27}{section.7}%
+\contentsline {subsection}{\numberline {8.7.1}Несобственные интегралы первого рода}{27}{subsection.7.1}%
+\contentsline {part}{IX\hspace {1em}Ряды}{28}{part.9}%
+\contentsline {section}{\numberline {9.8}Основные числовые понятия}{28}{section.8}%
+\contentsline {subsection}{\numberline {9.8.1}Определения}{28}{subsection.8.1}%
+\contentsline {subsection}{\numberline {9.8.2}Простейшие свойства и условия сходимости числовых рядов}{28}{subsection.8.2}%
+\contentsline {section}{\numberline {9.9}Знакопостоянные ряды}{30}{section.9}%
+\contentsline {subsection}{\numberline {9.9.1}Интегральный признак}{31}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.9.2}Признаки сравнения}{32}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.9.3}Признаки Даламбера и Коши}{32}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.9.4}Признаки Куммера, Раабе, Бертрана, Гаусса}{34}{subsection.9.4}%
+\contentsline {section}{\numberline {9.10}Знакопеременные ряды}{35}{section.10}%
+\contentsline {subsection}{\numberline {9.10.1}Знакочередующиеся ряды. Признак Лейбница}{37}{subsection.10.1}%
